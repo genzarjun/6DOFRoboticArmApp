@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Robotic Arm Controller</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="connect">Connect to Arduino</string>
+    <string name="disconnect">Disconnect</string>
+    
+    <string name="servo_0">Servo 0 - Base (0°-150°)</string>
+    <string name="servo_1">Servo 1 - Shoulder (0°-200°)</string>
+    <string name="servo_2">Servo 2 - Elbow (0°-270°)</string>
+    <string name="servo_3">Servo 3 - Wrist (0°-180°)</string>
+    <string name="servo_4">Servo 4 - Wrist Rotation (0°-270°)</string>
+    <string name="servo_5">Servo 5 - Gripper (180°-0°)</string>
+    
+    <string name="servo_min">Min</string>
+    <string name="servo_max">Max</string>
+    <string name="servo_custom">Set</string>
+    <string name="position_hint">Position</string>
+    
+    <string name="controller_help">🎮 Controller Mapping:\n• Left Stick: Base + Shoulder\n• Right Stick: Wrist + Rotation\n• Triggers: Elbow (LT=down, RT=up)\n• A Button: Open Gripper\n• B Button: Close Gripper\n• X Button: Center All\n• Y Button: Home Position</string>
+</resources>
